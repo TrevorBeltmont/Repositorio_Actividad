@@ -1,0 +1,2 @@
+Para correr el código "estadistica.py", en la terminal, tendremos que instalar pandas usando el código pip3 install pandas.
+Posteriormente debemos simplemente presionar el botón "Run Cell" y el código se ejecurará, mostrando a la izquierda los resultados estadísticos.
